@@ -1,7 +1,7 @@
 ---
 title: Journey of JavaScript code.
 date: 2023/6/23
-description: Journey of JavaScript code..
+description: Journey of JavaScript code.
 tag: web development
 author: You
 ---
